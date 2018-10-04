@@ -7,16 +7,16 @@
       <p class="my-4">First events announced 24th October 2018.</p>
     </section>
     <section class="mt-10">
-      <h3>Enter your email to be the first to hear.</h3>
+      <h3>Interested in learning more? Enter your email.</h3>
       <form class="my-4 flex" action="https://formcarry.com/s/UAju9_Dbyfd" method="post">
         <input type="email" name="email" placeholder="hotshot@marketer.ie" class="rounded-l w-full max-w-xs py-3 px-3 sm:px-4 border-red-darker">
         <input type="hidden" name="_gotcha">
         <button type="submit" class="rounded-r py-3 px-4 bg-grey-dark text-white">Submit</button>
       </form>
     </section>
-    <!-- <section class="mt-10">
-      <h3>Ready to commit? <a href="" class="text-inherit">Fill out our registration form.</a></h3>
-    </section> -->
+    <section class="mt-10">
+      <h3>Spaces are limited. <nuxt-link to="/register" class="text-inherit">Register now and secure your spot.</nuxt-link></h3>
+    </section>
   </main>
 </template>
 
