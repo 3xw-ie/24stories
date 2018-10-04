@@ -2,8 +2,8 @@
   <main class="w-screen min-h-screen px-4 py-8 sm:px-4 sm:py-16 md:p-32  bg-red-lightest font-serif antialiased">
     <img src="/24-stories-logo.svg" alt="24 Stories Logo" class="w-32">
     <section class="mt-8 max-w-sm">
-      <p class="my-4">A new community for marketing professionals &amp; students in Cork.</p>
-      <p class="my-4">Three events each month, every month.</p>
+      <p class="my-4">A new community for marketing professionals, students &amp; businesses in Cork.</p>
+      <p class="my-4">8 events, 4 workshops, 2 conferences.</p>
       <p class="my-4">First events announced 24th October 2018.</p>
     </section>
     <section class="mt-10">
