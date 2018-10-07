@@ -9,7 +9,7 @@
     </section>
     <section class="mt-10">
       <h3>Interested in learning more? Enter your email.</h3>
-      <form class="my-4 flex" action="https://formcarry.com/s/UAju9_Dbyfd" method="post">
+      <form class="my-4 flex" action="https://formcarry.com/s/UAju9_Dbyfd" method="post" netlify>
         <input type="email" name="email" placeholder="hotshot@marketer.ie" class="rounded-l w-full max-w-xs py-3 px-3 sm:px-4 border-red-darker">
         <input type="hidden" name="_gotcha">
         <button type="submit" class="rounded-r py-3 px-4 bg-grey-dark text-white">Submit</button>
@@ -20,11 +20,3 @@
     </section>
   </main>
 </template>
-
-<script>
-export default {
-  components: {
-    //
-  }
-}
-</script>
