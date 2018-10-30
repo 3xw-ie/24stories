@@ -5,7 +5,7 @@
     <section class="mt-8 max-w-sm">
       <p class="my-4">A new community for marketing professionals, students &amp; businesses in Cork.</p>
       <p class="my-4">8 events, 4 workshops, 2 conferences.</p>
-      <p class="my-4">First events announced 24th October 2018.</p>
+      <p class="my-4">First events in November 2018.</p>
     </section>
     <section class="mt-10">
       <h3>Interested in learning more? Enter your email.</h3>
