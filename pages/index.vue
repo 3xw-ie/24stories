@@ -10,7 +10,7 @@
     <section class="mt-10">
       <h3>Interested in learning more? Enter your email.</h3>
       <form class="my-4 flex" name="Email Subscribe" method="POST" netlify>
-        <input type="email" name="email" placeholder="hotshot@marketer.ie" class="rounded-l w-full max-w-xs py-3 px-3 sm:px-4 border-red-darker">
+        <input type="email" name="email" placeholder="hotshot@marketer.ie" class="rounded-l w-full max-w-xs py-3 px-3 sm:px-4 border-red-darker" required>
         <button type="submit" class="rounded-r py-3 px-4 bg-grey-dark text-white">Submit</button>
       </form>
     </section>
