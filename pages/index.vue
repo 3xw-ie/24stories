@@ -14,8 +14,8 @@
         <button type="submit" class="rounded-r py-3 px-4 bg-grey-dark text-white">Submit</button>
       </form>
     </section>
-    <section class="mt-10">
+    <!-- <section class="mt-10">
       <h3>Spaces are limited. <nuxt-link to="/register" class="text-inherit">Register now and secure your spot.</nuxt-link></h3>
-    </section>
+    </section> -->
   </main>
 </template>
